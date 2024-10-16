@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "912121697957",
+    "project_id": "pickapp-fc6d9",
+    "storage_bucket": "pickapp-fc6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912121697957:android:5538204fe0466eab54df4c",
+        "android_client_info": {
+          "package_name": "com.example.pickapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912121697957-82gjg9eufqpcou4mago778lkvqjd5ejg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCzwBJb0SoxjPbWvAu2oZ0Gt1o0gQE7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912121697957-82gjg9eufqpcou4mago778lkvqjd5ejg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912121697957-lsa7umkd5njo5m7t7il06jthongtjifk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pickapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
